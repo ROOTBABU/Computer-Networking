@@ -24,3 +24,7 @@
              
               Manchester Encoding Technique is used in Ethernet.
               
+              
+               In both Manchester Encoding and Differential Manchester, Encoding Baud rate is double of bit rate.
+
+               Baud rate = 2* Bit rate 
