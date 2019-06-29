@@ -28,3 +28,36 @@
                In both Manchester Encoding and Differential Manchester, Encoding Baud rate is double of bit rate.
 
                Baud rate = 2* Bit rate 
+               
+               
+               Ethernet LANs consist of network nodes and interconnecting media or link. The network nodes can be of two types:
+               
+               Data Terminal Equipment (DTE):- DTEs are the end devices that convert the user information into signals or 
+                                                reconvert the received signals.DTEs devices are: personal computers, workstations,
+                                                file servers or print servers also referred to as end stations.
+                                                 A user can interact to DTE or DTE may be a user.
+                                             
+                                             
+                                             
+              Data Communication Equipment (DCE):- DCEs are the intermediate network devices that receive and forward frames 
+                                                    across the network. They may be either standalone devices such as repeaters, 
+                                                    network switches, routers or maybe communications interface units such as 
+                                                    interface cards and modems. The DCE performs functions such as signal 
+                                                    conversion, coding and may be a part of the DTE or intermediate equipment.
+                                                  
+                                                  
+                                                  
+                                                  
+                                                    
+Currently, these data rates are defined for operation over optical fibers and twisted-pair cables:
+i) Fast Ethernet
+Fast Ethernet refers to an Ethernet network that can transfer data at a rate of 100 Mbit/s.
+
+ii) Gigabit Ethernet
+Gigabit Ethernet delivers a data rate of 1,000 Mbit/s (1 Gbit/s).
+
+iii) 10 Gigabit Ethernet
+10 Gigabit Ethernet is the recent generation and delivers a data rate of 10 Gbit/s (10,000 Mbit/s).
+It is generally used for backbones in high-end applications requiring high data rates.
+
+
