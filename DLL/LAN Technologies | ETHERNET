@@ -1,1 +1,26 @@
-ukolh
+:#LAN Technologies | ETHERNET:
+  
+  
+  The connection among the devices could be wired or wireless. Ethernet, Token Ring and Wireless LAN using IEEE 802.11 
+  are examples of standard LAN technologies.
+  
+  Ethernet :-
+            IEEE standards 802.3. 
+            The reason behind its wide usability is Ethernet is easy to understand, implement, maintain and allows 
+            low-cost network implementation. 
+            Ethernet operates in two layers of the OSI model, Physical Layer, and Data Link Layer.
+            For Ethernet, the protocol data unit is Frame since we mainly deal with DLL.
+            In order to handle collision, the Access control mechanism used in Ethernet is CSMA/CD.
+            
+             Over time, Ethernet has largely replaced competing wired LAN technologies such as Token Ring, FDDI and ARCNET. 
+             
+             Ethernet data transfer rates have been increased from the original 2.94 megabits per second (Mbit/s) to the
+             latest 400 gigabits per second (Gbit/s).
+             
+             Systems communicating over Ethernet divide a stream of data into shorter pieces called frames.
+             Each frame contains source and destination addresses, and error-checking data so that damaged
+             frames can be detected and discarded; most often, higher-layer protocols trigger retransmission of lost frames. 
+             
+             
+              Manchester Encoding Technique is used in Ethernet.
+              
