@@ -1,2 +1,2 @@
-first install mongodb package
+first install mongodb package: 
 npm install mongodb
